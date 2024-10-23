@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Software Development, and Test Automation<br>🌱 Robotics, Games, and Simulation are my interests. I'm actively learning about these topics<br>⚡ There is a 2-player game in my GitHub, you can try it by web demo. Otherwise, my old robotics projects have video included, take a look.
+🔭 I’m currently working on Software Development, and Test Automation<br>🌱 Robotics, Games, and Simulation are my interests. I'm actively learning about these topics<br>⚡ There is a 2-player game in my GitHub, you can try it by web demo. Otherwise, my old robotics projects have video included, take a look if you like watching robot videos.
 
 
 # 💻 Tech Stack:
